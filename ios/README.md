@@ -1,4 +1,4 @@
-# Firebase Quick Notes
+# iOS Quick Notes
 
 
 ### 1. iOS Notification testing 
