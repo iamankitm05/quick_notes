@@ -8,8 +8,6 @@ This project is released under The Unlicense, making it completely free for anyo
 
 ## 📑 Table of Contents
 
-About
-
 [Firebase Quick Notes](firebase/README.md)
 
 [Android Quick Notes](android/README.md)
